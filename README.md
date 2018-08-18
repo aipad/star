@@ -1,5 +1,8 @@
-- Not documented at all.
-- To compile:
+# Star
+
+Not documented at all.
+
+To compile:
 1. Make sure you have MacPorts installed, and python26, plus fuse if you want to compile dsc.c (which isn't necessary).
 2. Copy stuff into bs/, e.g.
 bs/iPhone2,1_4.0.1
